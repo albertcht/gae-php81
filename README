@@ -1,0 +1,7 @@
+Dockerfile for GAE-PHP81
+===
+
+The dockerfile in this repo is based on `gcr.io/gae-runtimes/php81` with following modifications:
+
+* Compile Imagemagick library with webp support
+* Compile and install Imagemagick extension to PHP 8.1
