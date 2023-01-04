@@ -1,5 +1,4 @@
-Dockerfile for GAE-PHP81
-===
+## Dockerfile for GAE-PHP81
 
 The dockerfile in this repo is based on `gcr.io/gae-runtimes/php81` with following modifications:
 
